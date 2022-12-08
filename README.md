@@ -1,8 +1,5 @@
 
-![Logo](https://github-readme-stats.vercel.app/api?username=Icaaan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-
-# Hi, I'm Ican! 👋
+# Hi there,  👋
 
 
 ## 🚀 About Me
@@ -23,7 +20,6 @@ I'm a full stack Data Scientinst
 
 
 
-
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
 
@@ -40,4 +36,10 @@ I'm a full stack Data Scientinst
 😄 Pronouns...
 
 ⚡️ Fun fact...
+
+## here is my stats :
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Icaaan&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icaaan&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaaan&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
 
